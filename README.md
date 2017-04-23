@@ -1,7 +1,7 @@
 # CaesarCipher-Python
-Konu anlatımı ve örnek uygulama için ---> 
+Konu anlatımı ve örnek uygulama için ---> https://youtu.be/Oei0nKsk1gk
 
-Science Ambrosia Youtube Kanalını Takip Etmeyi Unutmayın 👻
+Science Ambrosia Youtube Kanalını Takip Etmeyi Unutmayın 👻 (Abone Ol ---> https://www.youtube.com/channel/UCmmqyPyvNdI-4yL3UrHbZbQ?sub_confirmation=1 )
 
 # Sezar Kimdir ? 
 
